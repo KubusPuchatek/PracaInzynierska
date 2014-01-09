@@ -1,0 +1,6 @@
+D:\TEMP\watcher\watcher\bin\Debug\watcher.exe.config
+D:\TEMP\watcher\watcher\bin\Debug\watcher.exe
+D:\TEMP\watcher\watcher\bin\Debug\watcher.pdb
+D:\TEMP\watcher\watcher\obj\Debug\watcher.csprojResolveAssemblyReference.cache
+D:\TEMP\watcher\watcher\obj\Debug\watcher.exe
+D:\TEMP\watcher\watcher\obj\Debug\watcher.pdb

@@ -1,0 +1,10 @@
+D:\TEMP\CopyMonitor\CopyMonitor\bin\Debug\CopyMonitor.dll
+D:\TEMP\CopyMonitor\CopyMonitor\bin\Debug\CopyMonitor.pdb
+D:\TEMP\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.csprojResolveAssemblyReference.cache
+D:\TEMP\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.dll
+D:\TEMP\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.pdb
+D:\GIt\PracaInzynierska\Programy\CopyMonitor\CopyMonitor\bin\Debug\CopyMonitor.dll
+D:\GIt\PracaInzynierska\Programy\CopyMonitor\CopyMonitor\bin\Debug\CopyMonitor.pdb
+D:\GIt\PracaInzynierska\Programy\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.csprojResolveAssemblyReference.cache
+D:\GIt\PracaInzynierska\Programy\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.dll
+D:\GIt\PracaInzynierska\Programy\CopyMonitor\CopyMonitor\obj\Debug\CopyMonitor.pdb

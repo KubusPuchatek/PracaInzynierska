@@ -1,0 +1,4 @@
+D:\TEMP\FileSysWatch\FileSysWatch\bin\Debug\FileSysWatch.dll
+D:\TEMP\FileSysWatch\FileSysWatch\bin\Debug\FileSysWatch.pdb
+D:\TEMP\FileSysWatch\FileSysWatch\obj\Debug\FileSysWatch.dll
+D:\TEMP\FileSysWatch\FileSysWatch\obj\Debug\FileSysWatch.pdb

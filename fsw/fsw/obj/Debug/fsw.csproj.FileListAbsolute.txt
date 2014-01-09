@@ -1,0 +1,8 @@
+D:\GIt\PracaInzynierska\fsw\fsw\bin\Debug\fsw.exe.config
+D:\GIt\PracaInzynierska\fsw\fsw\obj\Debug\fsw.csprojResolveAssemblyReference.cache
+D:\GIt\PracaInzynierska\fsw\fsw\obj\Debug\fsw.Properties.Resources.resources
+D:\GIt\PracaInzynierska\fsw\fsw\obj\Debug\fsw.csproj.GenerateResource.Cache
+D:\GIt\PracaInzynierska\fsw\fsw\bin\Debug\fsw.exe
+D:\GIt\PracaInzynierska\fsw\fsw\bin\Debug\fsw.pdb
+D:\GIt\PracaInzynierska\fsw\fsw\obj\Debug\fsw.exe
+D:\GIt\PracaInzynierska\fsw\fsw\obj\Debug\fsw.pdb
